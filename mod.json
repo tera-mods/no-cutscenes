@@ -1,7 +1,8 @@
 {
 	"name": "no-cutscenes",
 	"update": "github:tera-mods/no-cutscenes",
+	"conflicts": ["skip-cutscenes"],
 	"title": "No Cutscenes",
-	"author": "Pinkie Pie",
+	"authors": ["Pinkie Pie", "Meishu"],
 	"description": "Disables cutscenes."
 }
